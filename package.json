@@ -6,6 +6,7 @@
   "author": "DOGUKKIM <59882993+Moderatio@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
+    "crypto-js": "^4.0.0",
     "tsc-watch": "^4.2.3",
     "typescript": "^3.8.3"
   },
